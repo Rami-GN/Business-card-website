@@ -1,2 +1,2 @@
 # Business-card-website
-Сайт визитка на HTML+CSS+JS
+Сайт визитка на HTML+CSS
